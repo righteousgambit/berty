@@ -33,7 +33,7 @@ require (
 	github.com/gobuffalo/here v0.6.2 // indirect
 	github.com/gofrs/uuid v3.4.0+incompatible
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.2
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
@@ -106,7 +106,7 @@ require (
 	golang.org/x/tools v0.0.0-20210106214847-113979e3529a
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/genproto v0.0.0-20201022181438-0ff5f38871d5 // indirect
-	google.golang.org/grpc v1.35.0
+	google.golang.org/grpc v1.47.0
 	google.golang.org/grpc/examples v0.0.0-20200922230038-4e932bbcb079
 	gopkg.in/square/go-jose.v2 v2.5.1
 	gorm.io/driver/sqlite v1.1.4
